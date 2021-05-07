@@ -2,5 +2,5 @@
 
 - [x] Creacion de repo
 - [x] Subir mas contendio
-- [ ] Ejemplo con mas de un usuario
+- [x] Ejemplo con mas de un usuario
 - [ ] Merge
