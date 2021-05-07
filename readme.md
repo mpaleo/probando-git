@@ -3,4 +3,4 @@
 - [x] Creacion de repo
 - [x] Subir mas contendio
 - [x] Ejemplo con mas de un usuario
-- [ ] Ejemplo de merge y conflictos
+- [x] Ejemplo de merge y conflictos
